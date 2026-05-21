@@ -1,4 +1,4 @@
-# rashed_codebase
+# Fashion Hub
 
 A new Flutter project.
 
