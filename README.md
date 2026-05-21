@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-## 4 Implemented Features (Assessment requirement)
+## Implemented Features (Assessment requirement)
 1. **Home Screen** — product grid, category filter tabs (Jackets, Suits, Accessories, etc.), search bar
 2. **Product Detail Screen** — image, name, price, size selector, Add to Cart button
 3. **Cart Screen** — list of added items, quantity controls, total price, Checkout button
